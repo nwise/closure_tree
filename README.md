@@ -1,5 +1,7 @@
 # Closure Tree
 
+[The real repo is here](https://github.com/ClosureTree/closure_tree)
+
 [![Build Status](https://secure.travis-ci.org/mceachen/closure_tree.png?branch=master)](http://travis-ci.org/mceachen/closure_tree)
 
 Closure Tree is a mostly-API-compatible replacement for the
